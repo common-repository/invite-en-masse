@@ -1,0 +1,8 @@
+Dear %name%,
+	
+You are invited to join %blogname% at %blogurl%, simply click on the following link and we'll do the rest:
+%inviteurl%
+
+Best regards,
+
+The %blogname% Team
